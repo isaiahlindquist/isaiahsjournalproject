@@ -2,4 +2,4 @@
 welcome
 
 # to see the user directory please click below
-[https://isaiahlindquist.github.io/isaiahsjournalproject/users](user database)
+[users](https://isaiahlindquist.github.io/isaiahsjournalproject/users)
